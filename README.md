@@ -1,1 +1,1 @@
-# Predicting JKSE unsing Support Vector Regression
+# Predicting JKSE using Support Vector Regression
